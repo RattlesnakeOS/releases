@@ -1,0 +1,34 @@
+{
+  "bonito": {
+    "build": "QQ2A.200501.001.B2",
+    "branch": "android-10.0.0_r35"
+  },
+  "sargo": {
+    "build": "QQ2A.200501.001.B2",
+    "branch": "android-10.0.0_r35"
+  },
+  "crosshatch": {
+    "build": "QQ2A.200501.001.B2",
+    "branch": "android-10.0.0_r35"
+  },
+  "blueline": {
+    "build": "QQ2A.200501.001.B2",
+    "branch": "android-10.0.0_r35"
+  },
+  "taimen": {
+    "build": "QQ2A.200501.001.B3",
+    "branch": "android-10.0.0_r36"
+  },
+  "walleye": {
+    "build": "QQ2A.200501.001.B3",
+    "branch": "android-10.0.0_r36"
+  },
+  "marlin": {
+    "build": "QP1A.191005.007.A3",
+    "branch": "android-10.0.0_r17"
+  },
+  "sailfish": {
+    "build": "QP1A.191005.007.A3",
+    "branch": "android-10.0.0_r17"
+  }
+}
