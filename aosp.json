@@ -1,4 +1,12 @@
 {
+  "coral": {
+    "build": "QQ2A.200501.001.B2",
+    "branch": "android-10.0.0_r35"
+  },
+  "flame": {
+    "build": "QQ2A.200501.001.B2",
+    "branch": "android-10.0.0_r35"
+  },
   "bonito": {
     "build": "QQ2A.200501.001.B2",
     "branch": "android-10.0.0_r35"
