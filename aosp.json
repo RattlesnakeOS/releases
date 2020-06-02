@@ -1,35 +1,35 @@
 {
   "coral": {
-    "build": "QQ2A.200501.001.B2",
-    "branch": "android-10.0.0_r35"
+    "build": "QQ3A.200605.001",
+    "branch": "android-10.0.0_r37"
   },
   "flame": {
-    "build": "QQ2A.200501.001.B2",
-    "branch": "android-10.0.0_r35"
+    "build": "QQ3A.200605.001",
+    "branch": "android-10.0.0_r37"
   },
   "bonito": {
-    "build": "QQ2A.200501.001.B2",
-    "branch": "android-10.0.0_r35"
+    "build": "QQ3A.200605.002",
+    "branch": "android-10.0.0_r38"
   },
   "sargo": {
-    "build": "QQ2A.200501.001.B2",
-    "branch": "android-10.0.0_r35"
+    "build": "QQ3A.200605.002",
+    "branch": "android-10.0.0_r38"
   },
   "crosshatch": {
-    "build": "QQ2A.200501.001.B2",
-    "branch": "android-10.0.0_r35"
+    "build": "QQ3A.200605.001",
+    "branch": "android-10.0.0_r37"
   },
   "blueline": {
-    "build": "QQ2A.200501.001.B2",
-    "branch": "android-10.0.0_r35"
+    "build": "QQ3A.200605.001",
+    "branch": "android-10.0.0_r37"
   },
   "taimen": {
-    "build": "QQ2A.200501.001.B3",
-    "branch": "android-10.0.0_r36"
+    "build": "QQ3A.200605.001",
+    "branch": "android-10.0.0_r37"
   },
   "walleye": {
-    "build": "QQ2A.200501.001.B3",
-    "branch": "android-10.0.0_r36"
+    "build": "QQ3A.200605.001",
+    "branch": "android-10.0.0_r37"
   },
   "marlin": {
     "build": "QP1A.191005.007.A3",
