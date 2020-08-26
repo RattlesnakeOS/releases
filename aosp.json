@@ -1,4 +1,8 @@
 {
+  "sunfish": {
+    "build": "QD4A.200805.003",
+    "branch": "android-10.0.0_r45"
+  },
   "coral": {
     "build": "QQ3A.200805.001",
     "branch": "android-10.0.0_r41"
