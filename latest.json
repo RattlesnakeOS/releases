@@ -1,7 +1,7 @@
 {
     "version": "11.0",
     "datetime": 1599622348,
-    "chromium": "86.0.4240.16",
+    "chromium": "85.0.4183.127",
     "fdroid": {
         "client": "1.9",
         "privilegedextention": "0.2.11"
