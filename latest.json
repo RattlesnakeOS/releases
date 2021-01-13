@@ -1,9 +1,9 @@
 {
   "version": "11.0",
-  "datetime": 1609788925,
-  "chromium": "87.0.4280.101",
+  "datetime": 1611534292,
+  "chromium": "88.0.4324.93",
   "fdroid": {
-    "client": "1.10",
+    "client": "1.11",
     "privilegedextention": "0.2.11"
   },
   "devices": {
@@ -78,6 +78,14 @@
       "factory_sha256": "0d4aed85bafc40f29a83a465acb5ab4281060b31643faaf33d5c7c3dc62045c6",
       "ota_url": "https://dl.google.com/dl/android/aosp/sunfish-ota-rq1a.210105.002-70ca530d.zip",
       "ota_sha256": "70ca530d8d7fa0c86414870dfc5fe571a5a4af0c182c0becc9659c26ea27b8b0"
+    },
+    "redfin": {
+      "build_id": "RQ1A.210105.003",
+      "aosp_tag": "android-11.0.0_r27",
+      "factory_url": "https://dl.google.com/dl/android/aosp/redfin-rq1a.210105.003-factory-54539ec0.zip",
+      "factory_sha256": "54539ec05f6db4b2ae7e1e661e1917386847060298f796d48c4d0659cc9d513d",
+      "ota_url": "https://dl.google.com/dl/android/aosp/redfin-ota-rq1a.210105.003-9570e375.zip",
+      "ota_sha256": "9570e37559db2e78834308af6125a4e4e6c2af796c7e23ed64b3cd0865e7fd81"
     }
   }
 }
