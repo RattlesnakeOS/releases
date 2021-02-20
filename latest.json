@@ -1,10 +1,15 @@
 {
   "version": "11.0",
   "datetime": 1612659850,
+  "release": "20200228",
+  "minimum_stack_version": "11.0.7",
   "chromium": "88.0.4324.152",
-  "fdroid": {
-    "client": "1.11",
-    "privilegedextention": "0.2.11"
+  "revisions": {
+    "android-prepare-vendor": "4e3aea63bd5b16b409cce34538b218b186654f5e",
+    "platform_packages_apps_Updater": "9ae81050aa8401da67dbeac7ecfd9ff1c677fad7",
+    "platform_prebuilts_chromium": "014bfe0637c16e8ce19a645c632f814c5fbbc568",
+    "platform_prebuilts_fdroid": "a65b3f069e20b01c2d61e1a7b69df9c020b5108b",
+    "privileged-extension": "b1af615fde5d9da668e7843c272a3a28eaf863f5"
   },
   "devices": {
     "walleye": {
@@ -78,6 +83,14 @@
       "factory_sha256": "afba4501f01612a2a4a9b97725b53ebbe0db1c2f5352ff139ea5e5fb2a954ca2",
       "ota_url": "https://dl.google.com/dl/android/aosp/sunfish-ota-rq1a.210205.004-1f66abd9.zip",
       "ota_sha256": "1f66abd939c8a170aac8a060b85d94f807c29401e9aa35f53cc2a248dac656b1"
+    },
+    "bramble": {
+      "build_id": "RQ1A.210205.004",
+      "aosp_tag": "android-11.0.0_r29",
+      "factory_url": "https://dl.google.com/dl/android/aosp/bramble-rq1a.210205.004-factory-2cd0868f.zip",
+      "factory_sha256": "2cd0868f87cb933c7ff564957e29e110265cb9f7302729a6cb923ba75c619ba8",
+      "ota_url": "https://dl.google.com/dl/android/aosp/bramble-ota-rq1a.210205.004-bb83f3ae.zip",
+      "ota_sha256": "bb83f3aed6e9ec8cf2707112d5cf992dc64ad034148d51865355db55a5772e21"
     },
     "redfin": {
       "build_id": "RQ1A.210205.004",

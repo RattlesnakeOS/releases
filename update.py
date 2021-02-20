@@ -108,7 +108,8 @@ all_devices = [
     "blueline", "crosshatch",
     "sargo", "bonito",
     "flame", "coral",
-    "sunfish", "redfin"
+    "sunfish", "bramble",
+    "redfin"
 ]
 image_url = "https://developers.google.com/android/images"
 ota_url = "https://developers.google.com/android/ota"
