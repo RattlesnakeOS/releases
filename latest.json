@@ -83,6 +83,14 @@
       "factory_sha256": "8675636dfdac572c31b3c897128daf4c64317cd1119dad1f0e24e28b74295e13",
       "ota_url": "https://dl.google.com/dl/android/aosp/redfin-ota-rq3a.210805.001.a1-7e1d3f8d.zip",
       "ota_sha256": "7e1d3f8dce300f73a2d146e5ddfb473ea495f846b16a31473cecea5560d8bf82"
+    },
+    "barbet": {
+      "build_id": "RD2A.210605.007",
+      "aosp_tag": "android-11.0.0_r42",
+      "factory_url": "https://dl.google.com/dl/android/aosp/barbet-rd2a.210605.007-factory-685c0dfd.zip",
+      "factory_sha256": "685c0dfd9ac9a86562757b3c366e80fb93d456c94704fb1de690e75e8bb9dcc6",
+      "ota_url": "https://dl.google.com/dl/android/aosp/barbet-ota-rd2a.210605.007-c7751714.zip",
+      "ota_sha256": "c77517142e22425397230c87d20c1ef740d27c5b78ee90e9e5edfeacd231782c"
     }
   }
 }
