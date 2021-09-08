@@ -108,7 +108,7 @@ all_devices = [
     "sargo", "bonito",
     "flame", "coral",
     "sunfish", "bramble",
-    "redfin"
+    "redfin", "barbet"
 ]
 image_url = "https://developers.google.com/android/images"
 ota_url = "https://developers.google.com/android/ota"
