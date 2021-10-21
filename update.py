@@ -101,7 +101,7 @@ def get_build_id_to_aosp_tag_mapping(aosp_tags):
                 mapping[build_id] = aosp_tag
     return mapping
 
-default_android_version = "11.0"
+default_android_version = "12.0"
 config_file = "temp.json"
 all_devices = [
     "blueline", "crosshatch",
