@@ -1,11 +1,10 @@
 {
   "version": "12.0",
-  "datetime": 1635802445,
-  "release": "20211101",
-  "minimum_stack_version": "12.0.2",
+  "datetime": 1636699986,
+  "release": "20211112",
+  "minimum_stack_version": "12.0.3",
   "chromium": "95.0.4638.50",
   "revisions": {
-    "android-prepare-vendor": "5c77eabcb1c6574d1595c75474c1ba75e34fb052",
     "platform_packages_apps_Updater": "f8884218b6ec938cf7b7fbfa200d96de29eb29d7",
     "platform_prebuilts_chromium": "7ee0796ec2f43eb0f129947820b7f564adc5a7b8",
     "platform_prebuilts_fdroid": "f2598f6366b9b181bc732d0feb49ae5743ab08e1",
