@@ -8,7 +8,9 @@
     "platform_packages_apps_Updater": "f8884218b6ec938cf7b7fbfa200d96de29eb29d7",
     "platform_prebuilts_chromium": "43195fdff701616d28ff36a802d8f87a696179a6",
     "platform_prebuilts_fdroid": "bbcc67eeb889cd5d185c98543db7c7a834fae3ec",
-    "privileged-extension": "3ef04c6ef30fc384f36130f631a8485a01056eed"
+    "privileged-extension": "3ef04c6ef30fc384f36130f631a8485a01056eed",
+    "adevtool": "ed6ecbb7bccc8a97eac026a1a63cc6343190a340",
+    "vendor_state": "15b88b4070a5e0a5ec75557b37df1e5bae58ca3e"
   },
   "devices": {
     "blueline": {
@@ -90,6 +92,22 @@
       "factory_sha256": "a18455ecd4cf8220cfdb99b165766ddaab7856cc278d82d636595d9c144f9c5a",
       "ota_url": "https://dl.google.com/dl/android/aosp/barbet-ota-sq1a.220205.002-18cf7fdf.zip",
       "ota_sha256": "18cf7fdfd5a43cfbf8e17a7a7f5e4d9be9a9cf16ec906a4c8eb931737b87ab92"
+    },
+    "oriole": {
+      "build_id": "SQ1D.220205.004",
+      "aosp_tag": "android-12.0.0_r32",
+      "factory_url": "https://dl.google.com/dl/android/aosp/oriole-sq1d.220205.004-factory-eb39151c.zip",
+      "factory_sha256": "eb39151c89c1a0d8b5226b2b83a1ab3fe0d638e05bd3f14b87f424b8bc6531a9",
+      "ota_url": "https://dl.google.com/dl/android/aosp/oriole-ota-sq1d.220205.004-36ba07e7.zip",
+      "ota_sha256": "36ba07e7ae6fac9c18bf1e545e1ef113feba8c1acef2010afa818f62c6f7b0be"
+    },
+    "raven": {
+      "build_id": "SQ1D.220205.004",
+      "aosp_tag": "android-12.0.0_r32",
+      "factory_url": "https://dl.google.com/dl/android/aosp/raven-sq1d.220205.004-factory-206b1b3c.zip",
+      "factory_sha256": "206b1b3c3ee21193335530e13d83a203e713f66fcf21c695cd0027007bf9f7fd",
+      "ota_url": "https://dl.google.com/dl/android/aosp/raven-ota-sq1d.220205.004-408ce2fc.zip",
+      "ota_sha256": "408ce2fcf9585a78aff53ac894184514e91fcda4ca9ab10487a20d9eee7cfb92"
     }
   }
 }
